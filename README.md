@@ -93,4 +93,5 @@ The website is designed to work effectively on:
 
 ## Author
 
-Banu
+Bhavana
+
